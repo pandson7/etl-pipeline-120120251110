@@ -1,0 +1,7 @@
+{
+  "name": "job-status-lambda",
+  "version": "1.0.0",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.0.0"
+  }
+}
